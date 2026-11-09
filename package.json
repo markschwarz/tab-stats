@@ -1,0 +1,10 @@
+{
+  "name": "tab-stats",
+  "version": "1.0.0",
+  "description": "CLI tool to count open browser tabs and estimate memory usage on macOS",
+  "main": "tab-stats.js",
+  "bin": {
+    "tab-stats": "./tab-stats.js"
+  },
+  "dependencies": {}
+}
